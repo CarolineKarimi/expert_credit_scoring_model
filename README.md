@@ -1,1 +1,3 @@
-# credit_scoring_model
+Credit Scoring Data Modeling
+Sofia Chevrolat (December 2020)
+
