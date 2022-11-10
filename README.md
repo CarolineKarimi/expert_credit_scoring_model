@@ -19,6 +19,20 @@ Starting a digital lending company requires an expert scoring model before getti
   * Number of Dependants
  
 It is important to collect as much customer demographic information as posible (gender , age , marital status , location...etc). While these variables aren't used during expert scoring , they will be correlated with loan repayments and help build the databased subsequent model 
+
+* Financial Information - M-Pesa Statement Used
+  *  Total Number of Loans - Count of all loans paid in
+  *  Average Monthly Installment Loaned - Total paid in loan amounts/No. of months
+  *  Average Monthyly installment-Repaid - Total withdrawn loan amounts/No. of months
+  *  Average Monthly  Savings - Total withdrawn to saccos and banks/No. of months
+  *  Average Monthly Electricity Bill - Total withdrawn to KPLC/No. of months
+  *  Average amount spent on transport Monthly - Total withdrawn to taxi apps / No.of months
+  *  Average bank credits Monthly - Total Paid in from bank accounts(B2C)/No. of months
+  *  Average amount spent on betting Monthly - Total withdtraw to betting sites/No. of months
+  *  Average Monthly Expenditure - Total Paid Out(Lipa na M-Pesa(Paybill+Buy goods))/No. of Months
+  *  Average expenditure on Airtime - Total withdrawn for airtime/No. of month
+
+This data could be extracted manually which is time consuming but neccessary where there isn't enough budget set aside for automation 
   
   
 
