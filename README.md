@@ -17,7 +17,8 @@ Starting a digital lending company requires an expert scoring model before getti
   * Employment Status
   * Level of Education
   * Number of Dependants
-  * 
+ 
+It is important to collect as much customer demographic information as posible (gender , age , marital status , location...etc). While these variables aren't used during expert scoring , they will be correlated with loan repayments and help build the databased subsequent model 
   
   
 
