@@ -32,7 +32,7 @@ It is important to collect as much customer demographic information as posible (
   *  Average Monthly Expenditure - Total Paid Out(Lipa na M-Pesa(Paybill+Buy goods))/No. of Months
   *  Average expenditure on Airtime - Total withdrawn for airtime/No. of month
 
-This data could be extracted manually which is time consuming but neccessary where there isn't enough budget set aside for automation 
+This data could be extracted manually which is time consuming or automated using python or other programming languages (in this case the mpesa statement is uploaded and autoprocessed) 
   
   
 
