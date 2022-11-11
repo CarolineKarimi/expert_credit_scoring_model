@@ -33,6 +33,20 @@ It is important to collect as much customer demographic information as posible (
   *  Average expenditure on Airtime - Total withdrawn for airtime/No. of month
 
 This data could be extracted manually which is time consuming or automated using python or other programming languages (in this case the mpesa statement is uploaded and autoprocessed) 
+
+* Credit Reference bureau data
+  * CRB Band / Score
+  * Total Active, Close and Overdue Loans
+  * Average Amount repaid
+  * Average Total Credit Amount
+  * Average Days Late
+  * Number of Overdue Installments
+  * Average length of borrowed loans
+  * Average Monthly installments
+  * Total Outsanding Loan Amount
+  * Share of Outsanding Loan Amount that is overdue
+  
+  
   
   
 
