@@ -45,6 +45,14 @@ This data could be extracted manually which is time consuming or automated using
   * Average Monthly installments
   * Total Outsanding Loan Amount
   * Share of Outsanding Loan Amount that is overdue
+
+## Credit Scoring 
+* Variable Weighting - Some variables and datapoints are more important than others hence different weights need to be assigned. For example the CRB score could be assigned more weight compared to othe variables from credit reference bureau
+* Variable Rating - One a scale of say 1-5 , rate each value or range of values in each variablle
+* Total Client Score - The total client score is the sum of Variable Rating multiplied by their assigned weights
+* Score Card - For each range of client score , there is an expert assigned  Client Grade , Probability of Default and Apporved Amount
+* Total Amount to Disburse to Client - Using the predetermined interest rates and one-time fees , total fees to be accrued is determined and amount approved less the fees is disbursed to the client
+
   
   
   
