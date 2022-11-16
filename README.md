@@ -21,17 +21,18 @@ Starting a digital lending company requires an expert scoring model before getti
 It is important to collect as much customer demographic information as posible (gender , age , marital status , location...etc). While these variables aren't used during expert scoring , they will be correlated with loan repayments and help build the databased subsequent model 
 
 * Telco - Mpesa Statement
-  * Financial Information
-    *  Total Number of Loans - Count of all loans paid in
-    *  Average Monthly Installment Loaned - Total paid in loan amounts/No. of months
-    *  Average Monthyly installment-Repaid - Total withdrawn loan amounts/No. of months
-    *  Average Monthly  Savings - Total withdrawn to saccos and banks/No. of months
-    *  Average Monthly Electricity Bill - Total withdrawn to KPLC/No. of months
-    *  Average amount spent on transport Monthly - Total withdrawn to taxi apps / No.of months
-    *  Average bank credits Monthly - Total Paid in from bank accounts(B2C)/No. of months
-    *  Average amount spent on betting Monthly - Total withdtraw to betting sites/No. of months
-    *  Average Monthly Expenditure - Total Paid Out(Lipa na M-Pesa(Paybill+Buy goods))/No. of Months
-    *  Average expenditure on Airtime - Total withdrawn for airtime/No. of month
+  *  Monthly Disposable Income
+  *  Average number of monthly loans
+  *  Average monthly airtime expenditure
+  *  Average monthly utility expenditure
+  *  Average monthly betting expenditure
+  *  Average monthly transport expenditure
+  *  Average monthly salary amount paid in
+  *  Average estimated monthly income
+  *  share of total loan amount borrowed that is repaid
+  *  Total numer of defaults
+  *  Total amount of default penalties paid
+  *  Average loan amount borrowed
 
 This data could be extracted manually which is time consuming or automated using python or other programming languages (in this case the mpesa statement is uploaded and autoprocessed) 
 
