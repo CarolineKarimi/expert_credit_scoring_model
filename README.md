@@ -37,15 +37,17 @@ This data could be extracted manually which is time consuming or automated using
 
 * Credit Reference bureau data
   * CRB Band / Score
-  * Total Active, Close and Overdue Loans
-  * Average Amount repaid
-  * Average Total Credit Amount
-  * Average Days Late
-  * Number of Overdue Installments
-  * Average length of borrowed loans
-  * Average Monthly installments
-  * Total Outsanding Loan Amount
-  * Share of Outsanding Loan Amount that is overdue
+  * Probability of Default
+  * Current number of open loan contracts
+  * Current average amount of open loan contracts
+  * Current total overdue amount of open loan contracts
+  * Current maximum numner of overdue installments of open loan contracts
+  * Average amount borrowed monthly and closed with no arrears
+  * Amount of worst current arrears
+  * Total time for worst current arrears
+  * Total time for worst current arrears last 12 months
+  * Total number of credit enquiries last 12 months
+  * Amount of monthly demonstrated affordability
 
 ## Credit Scoring 
 * Variable Weighting - Some variables and datapoints are more important than others hence different weights need to be assigned. For example the CRB score could be assigned more weight compared to othe variables from credit reference bureau
